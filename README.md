@@ -1,2 +1,2 @@
 # wormcDNAfetcher
-this is a program for fetch cDNA seq from wormbase
+This is a program to fetch cDNA seq from Wormbase
